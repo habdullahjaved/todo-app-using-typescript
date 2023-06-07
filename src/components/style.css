@@ -110,3 +110,6 @@
 .remove {
   background-color: rgb(235, 103, 80);
 }
+.dropableactive {
+  background-color: #388ae2;
+}
